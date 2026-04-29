@@ -8,10 +8,7 @@
         "75:52:4C:48:D3:8C:45:C3:F5:FD:A4:FC:0F:98:DE:C2:53:A8:5F:39:A6:EC:60:E9:A4:7F:34:33:D9:36:8E:88"
       ]
     }
-  }
-]
-
-[
+  },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
