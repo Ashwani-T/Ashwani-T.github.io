@@ -10,3 +10,16 @@
     }
   }
 ]
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.animeexplorer",
+      "sha256_cert_fingerprints": [
+        "64:0F:FA:E9:A2:AB:B2:4E:7D:22:8D:E1:69:51:51:29:C7:2A:15:FA:E9:D4:FA:26:1E:5C:09:FE:98:5E:19:23"
+      ]
+    }
+  }
+]
